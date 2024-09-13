@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\dplab1\dplab1\bin\Debug\dplab1.exe.config
+C:\Users\acer\source\repos\dplab1\dplab1\bin\Debug\dplab1.exe
+C:\Users\acer\source\repos\dplab1\dplab1\bin\Debug\dplab1.pdb
+C:\Users\acer\source\repos\dplab1\dplab1\obj\Debug\dplab1.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\dplab1\dplab1\obj\Debug\dplab1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\dplab1\dplab1\obj\Debug\dplab1.exe
+C:\Users\acer\source\repos\dplab1\dplab1\obj\Debug\dplab1.pdb
