@@ -1,0 +1,7 @@
+F:\Items\Code\C#\dplab_3\dplab_3\bin\Debug\dplab_3.exe.config
+F:\Items\Code\C#\dplab_3\dplab_3\bin\Debug\dplab_3.exe
+F:\Items\Code\C#\dplab_3\dplab_3\bin\Debug\dplab_3.pdb
+F:\Items\Code\C#\dplab_3\dplab_3\obj\Debug\dplab_3.csproj.AssemblyReference.cache
+F:\Items\Code\C#\dplab_3\dplab_3\obj\Debug\dplab_3.csproj.CoreCompileInputs.cache
+F:\Items\Code\C#\dplab_3\dplab_3\obj\Debug\dplab_3.exe
+F:\Items\Code\C#\dplab_3\dplab_3\obj\Debug\dplab_3.pdb
